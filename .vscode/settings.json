@@ -1,0 +1,8 @@
+{
+    "liveServer.settings.port": 5501,
+    "accessibility.signalOptions.debouncePositionChanges": false,
+    "window.closeWhenEmpty": false,
+    "window.autoDetectColorScheme": false,
+    "window.commandCenter": true,
+    "window.confirmSaveUntitledWorkspace": true
+}
